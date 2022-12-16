@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GuitarHeroineLite
+comment0.text=\n\n\ \ Plays\ two\ guitar\ strings\ (concert\ A\ and\ concert\ C)\ when\ the\ user\n\ \ types\ the\ lowercase\ letters\ 'a'\ and\ 'c',\ respectively\ in\ the\ \n\ \ standard\ drawing\ window.\n\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
